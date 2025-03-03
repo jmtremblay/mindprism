@@ -28,7 +28,9 @@ This method was developed empirically and makes no scientific claims.
 
 ### Core concepts
 
-Instead of focusing on a specific sphere of one's life or defining different categories for different spheres, the Mind Prism method defines the sphere as one dimension of a universal 3-dimensional system where the 3 dimensions are called **purpose**, **mode**, and **sphere**.   It defines the same purposes and modes for all spheres, such that the categorization system can be seen as a rectangular **prism** that can be sliced along 3 dimensions, down to individual cubic **cells**, where each slice or cell provides meaningful and consistent context. In a way, the same prism is used to project an arbitrary mind space in a consistent way onto any set of constrained storage systems offering flat or hierarchical structures such as folders, tags, groups, or sections.  
+Instead of focusing on a specific sphere of one's life or defining different categories for different spheres, the Mind Prism method defines the sphere as one dimension of a universal 3-dimensional system where the 3 dimensions are called **purpose**, **mode**, and **sphere**.   It defines the same purposes and modes consistently for all spheres, making it easier to context-switch between spheres. 
+
+The categorization system can therefore be seen as a rectangular **prism** that can be sliced along 3 dimensions, down to individual cubic **cells**, where each slice or cell provides meaningful and consistent context. In a way, the same prism is used to project an arbitrary mind space in a consistent way onto any set of constrained storage systems offering flat or hierarchical structures such as folders, tags, groups, or sections.  
 
 #### The “Purpose” dimension
 
