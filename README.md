@@ -102,6 +102,7 @@ Each sphere can therefore be seen as a slice of a 3D prism built with small cube
 | **50-ops** | `s52`      | `s54`      | `s55`      | `s56`      | `s58`      |
 | **70-ref** | `s72`      | `s74`      | `s75`      | `s76`      | `s78`      |
 
+### How to use
 
 How to use the cell codes is flexible and depends on the tool and context. For example, one can start with a rather flat list like so:
 
@@ -130,6 +131,8 @@ For convenience, one can choose to bring references (70) into a project (30) lik
     - p78-asia-articles/
 
 Or put a project to maintenance mode by changing its code from project-based (30) to operational (50).
+
+See more examples in the `examples` folder.
 
 ### Advanced Concepts / Extensions
 
@@ -204,6 +207,9 @@ The coding system can accommodate 9x9 matrices at the cost of having to remember
 The coding system could also be extended by assigning a meaning to adding multiples of 100 (up to 800) to the code as we do for archiving (+900). 
 Finer categorization within a cell can be achieved by adding a numerical or alphabetical suffix, such as f32.4 or f54b. But this can become quite cryptic. 
 
+## Examples
+
+See the `examples` folder.
 
 ----
 
