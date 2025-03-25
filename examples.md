@@ -1,5 +1,10 @@
-Note: these can be used to organize folders and documents, emails, Slack channels, etc. See main README for explanation.
+# Examples 
+The Mind Prism method can be used to organize folders and documents, emails, Slack channels, etc. See main [README](README.md) for explanation.
 
+## Example of Folder Organization
+
+
+```
 f-family/
   f12-bills-to-pay/
   f22-budget/
@@ -70,3 +75,4 @@ w-work/
   w74-contacts/
   w76-fyi/
   w78-funny/
+```

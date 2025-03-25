@@ -209,7 +209,7 @@ Finer categorization within a cell can be achieved by adding a numerical or alph
 
 ## Examples
 
-See the `examples` folder.
+See [examples](examples.md).
 
 ----
 
